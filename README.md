@@ -1,2 +1,3 @@
 # bug-free-palm-tree
-dinacabral
+<!-- dinacabral status -->git curriculo
+ola,me chamo dinorah de oliveira cabral, possuo experiencia
